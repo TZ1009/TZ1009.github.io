@@ -1,78 +1,74 @@
-# 章廷瑋 | Zhang Tingwei
+# Zhang Tingwei | 章廷瑋
 
-🎓 人工智能专业本科生 @ 暨南大学  
+🎓 Undergraduate Student in Artificial Intelligence @ Jinan University  
 📬 Email: kit1119@foxmail.com | GitHub: [github.com/TZ1009](https://github.com/TZ1009)
 
 ---
 
-## 👋 关于我 About Me
+## 👋 About Me
 
-我是一名来自暨南大学的人工智能专业本科生，热衷于将 AI 技术应用于教育、媒体与商业等场景。通过学习与项目实践，我掌握了计算机视觉、自然语言处理、图像处理、AIGC 等方向的知识，同时也是一位活跃的数字媒体使用者与内容创作者。
-
-> I am an AI undergraduate student from Jinan University, passionate about applying machine learning and AI technologies to solve real-world problems in education, media, and business. I'm particularly interested in generative AI, computer vision, and sentiment analysis.
+I am an undergraduate student majoring in Artificial Intelligence at Jinan University. I am passionate about applying AI technologies in real-world scenarios such as education, digital media, and business. With hands-on project experience, I have developed skills in computer vision, natural language processing, image processing, and generative AI. I am also an active digital media user and content creator.
 
 ---
 
-## 💼 项目 Projects
+## 💼 Projects
 
-### 1. AI上机考试监督系统  
-`YOLO11 + MediaPipe Pose`  
-- 结合目标检测与姿态估计，识别考试中违规行为  
-- 实现双模型协同检测、实时可视化  
-- 技术栈：YOLO11, MediaPipe, OpenCV, Python
-🔗 [https://github.com/TZ1009/ai-proctoring-system]
-  
+### 1. AI-Based Examination Proctoring System  
+`YOLOv11 + MediaPipe Pose`  
+- Detects cheating behaviors during online exams using object detection and pose estimation  
+- Implements dual-model cooperative detection with real-time visualization  
+- Tech stack: YOLOv11, MediaPipe, OpenCV, Python  
+🔗 [GitHub Repo](https://github.com/TZ1009/ai-proctoring-system)
 
-### 2. 商品评论情感分析系统  
+### 2. Sentiment Analysis for Product Reviews  
 `Python + SnowNLP`  
-- 爬取电商商品评论并进行情绪识别  
-- 输出饼图与柱状图可视化情绪分布  
-- 技术栈：Requests, Pandas, SnowNLP, Matplotlib  
-🔗 [https://github.com/TZ1009/sentiment-analysis]
+- Crawls product reviews and performs sentiment classification  
+- Visualizes emotional distribution via pie charts and bar graphs  
+- Tech stack: Requests, Pandas, SnowNLP, Matplotlib  
+🔗 [GitHub Repo](https://github.com/TZ1009/sentiment-analysis)
 
 ---
 
-## 🧪 技能 Skills
+## 🧪 Skills
 
-- 编程语言：Python, C++, HTML/CSS, JavaScript  
-- 框架工具：YOLO, MediaPipe, OpenCV, PaddlePaddle, PyTorch  
-- 数据处理：Pandas, NumPy, Matplotlib  
-- 软件应用：Adobe Photoshop, VS Code, Git, MATLAB  
-- 语言能力：普通话（母语）、粤语（熟练）、英语（CET-4: 557，CET-6：备考雅思中）
+- Programming Languages: Python, C++, HTML/CSS, JavaScript  
+- Frameworks & Tools: YOLO, MediaPipe, OpenCV, PaddlePaddle, PyTorch  
+- Data Processing: Pandas, NumPy, Matplotlib  
+- Software: Adobe Photoshop, VS Code, Git, MATLAB  
+- Languages: Mandarin (native), Cantonese (fluent), English (CET-4: 557; CET-6: taken, IELTS in preparation)
 
 ---
 
-## 📜 简历 Resume
+## 📄 Resume
 
-- [📄 中文简历 PDF](./resume_cn.pdf)  
+- [📄 Chinese Resume PDF](./resume_cn.pdf)  
 - [📄 English Resume PDF](./resume_en.pdf)
 
 ---
 
-## ✨ 数字媒体创作实践 Media Practice
+## ✨ Digital Media Practice
 
-- 担任学校仪仗队干事，为部门拍摄多张照片及宣传视频  
-- 多次作品发表于学校官微、学院公众号、视频号  
-- 为本地花店与面包店拍摄产品图，助力线上销售
+- Created photos and promotional videos as a member of the university Honour Guard  
+- Content featured on official university social media and department platforms  
+- Captured commercial product shots for local bakeries and flower shops to support marketing
 
 ---
 
-## 🧑‍💼 实习 Internship
+## 🧑‍💼 Internship
 
 **Assistant Engineer @ Shanghai Yunteng Automation Technology Co., Ltd.**  
 *Jan – Mar 2025*  
-- Integrated hardware & software systems in industrial automation  
-- Strengthened problem-solving and cross-functional communication skills
+- Integrated software and hardware systems in industrial automation  
+- Enhanced problem-solving and cross-functional collaboration abilities
 
 ---
 
-## 📬 联系我 Contact
+## 📬 Contact
 
-- 📧 Email：your.email@example.com  
-- 🌐 GitHub：[github.com/TZ1009](https://github.com/TZ1009)  
-- ☁️ Portfolio Projects Repo：[github.com/yourusername/ai-projects](#)
+- 📧 Email: kit1119@foxmail.com  
+- 🌐 GitHub: [github.com/TZ1009](https://github.com/TZ1009)  
+- ☁️ Portfolio: [github.com/TZ1009/portfolio](#)
 
 ---
 
-> Thank you for visiting my site! I look forward to collaborating, creating, and learning together.
-
+> Thank you for visiting! I look forward to collaborating, creating, and learning with you.
