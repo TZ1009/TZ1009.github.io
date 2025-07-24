@@ -49,7 +49,7 @@ I am an undergraduate student majoring in Artificial Intelligence at Jinan Unive
 - Created photos and promotional videos as a member of the university Honour Guard  
 - Content featured on official university social media and department platforms  
 - Captured commercial product shots for local bakeries and flower shops to support marketing  
-📎 [📁 View Portfolio PDF](./portfolio.pdf)
+📎 [📁 Portfolio PDF](./portfolio.pdf)
 
 ---
 
