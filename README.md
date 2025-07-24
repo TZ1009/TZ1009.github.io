@@ -39,9 +39,8 @@ I am an undergraduate student majoring in Artificial Intelligence at Jinan Unive
 ---
 
 ## 📄 Resume
-
-- [📄 Chinese Resume PDF](./resume_cn.pdf)  
-- [📄 English Resume PDF](./resume_en.pdf)
+ 
+- [📄 Resume PDF](./cv.pdf)
 
 ---
 
