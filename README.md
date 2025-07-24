@@ -1,7 +1,6 @@
 # Zhang Tingwei | 章廷瑋
 
 🎓 Undergraduate Student in Artificial Intelligence @ Jinan University  
-📬 Email: kit1119@foxmail.com | GitHub: [github.com/TZ1009](https://github.com/TZ1009)
 
 ---
 
@@ -51,6 +50,7 @@ I am an undergraduate student majoring in Artificial Intelligence at Jinan Unive
 - Created photos and promotional videos as a member of the university Honour Guard  
 - Content featured on official university social media and department platforms  
 - Captured commercial product shots for local bakeries and flower shops to support marketing
+Portfolio Projects: [github.com/TZ1009/media-portfolio]
 
 ---
 
@@ -67,7 +67,6 @@ I am an undergraduate student majoring in Artificial Intelligence at Jinan Unive
 
 - 📧 Email: kit1119@foxmail.com  
 - 🌐 GitHub: [github.com/TZ1009](https://github.com/TZ1009)  
-- ☁️ Portfolio: [github.com/TZ1009/portfolio](#)
 
 ---
 
