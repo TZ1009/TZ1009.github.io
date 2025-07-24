@@ -1,8 +1,7 @@
-# 章廷玮 | Zhang Tingwei
+# 章廷瑋 | Zhang Tingwei
 
 🎓 人工智能专业本科生 @ 暨南大学  
-📍 申请方向：人工智能、数字媒体、商业数据分析  
-📬 Email: your.email@example.com | GitHub: [github.com/TZ1009](https://github.com/TZ1009)
+📬 Email: kit1119@foxmail.com | GitHub: [github.com/TZ1009](https://github.com/TZ1009)
 
 ---
 
@@ -20,15 +19,16 @@
 `YOLO11 + MediaPipe Pose`  
 - 结合目标检测与姿态估计，识别考试中违规行为  
 - 实现双模型协同检测、实时可视化  
-- 技术栈：YOLO11, MediaPipe, OpenCV, Python  
-🔗 [项目仓库链接（如有）]
+- 技术栈：YOLO11, MediaPipe, OpenCV, Python
+🔗 [https://github.com/TZ1009/ai-proctoring-system]
+  
 
 ### 2. 商品评论情感分析系统  
 `Python + SnowNLP`  
-- 爬取京东商品评论并进行情绪识别  
+- 爬取电商商品评论并进行情绪识别  
 - 输出饼图与柱状图可视化情绪分布  
 - 技术栈：Requests, Pandas, SnowNLP, Matplotlib  
-🔗 [https://github.com/yourusername/sentiment-analysis-jd-python](#)
+🔗 [https://github.com/TZ1009/sentiment-analysis]
 
 ---
 
@@ -38,7 +38,7 @@
 - 框架工具：YOLO, MediaPipe, OpenCV, PaddlePaddle, PyTorch  
 - 数据处理：Pandas, NumPy, Matplotlib  
 - 软件应用：Adobe Photoshop, VS Code, Git, MATLAB  
-- 语言能力：普通话（母语）、粤语（熟练）、英语（CET-4: 557，备考雅思中）
+- 语言能力：普通话（母语）、粤语（熟练）、英语（CET-4: 557，CET-6：备考雅思中）
 
 ---
 
